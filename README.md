@@ -1,11 +1,9 @@
 # VRCXPhotoSearcher
 
-{:toc}
-
 **VRCXPhotoSearcher** is a tool for organizing and quickly searching through your VRChat screenshot gallery.  
 This project is specifically designed for VRChat players to improve accessibility to photos captured in the past.
 
-[日本語版READMEはこちら](./README_ja.md)
+[日本語版READMEはこちら](./README.ja.md)
 
 ---
 
