@@ -114,7 +114,7 @@ Filter photos based on the following conditions, alone or in combination:
 
 #### From Prebuilt Binary
 
-1. Download the appropriate binary file for your operating system via the [GitHub Releases page](https://github.com/username/VRCXPhotoSearcher/releases).
+1. Download the appropriate binary file for your operating system via the [GitHub Releases page](https://github.com/Saffrontea/VRCXPhotoSearcher/releases).
 2. Extract the file into your desired directory.
 3. Run the program. If a warning about untrusted software appears, set it as trusted or allow access.
 

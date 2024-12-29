@@ -108,7 +108,7 @@
 
 ### インストール方法
 
-**VRCXPhotoSearcher** を利用するには、GithubのリリースページからバイナリをDLしてください。
+**VRCXPhotoSearcher** を利用するには、[Githubのリリースページ](https://github.com/Saffrontea/VRCXPhotoSearcher/releases)からバイナリをDLしてください。
 
 #### 注意事項
 
