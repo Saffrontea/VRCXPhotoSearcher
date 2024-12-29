@@ -1,0 +1,15 @@
+{
+  "layout": {
+    "menu": {
+      "home": "Home",
+      "settings": "Settings",
+      "about": "About"
+    },
+    "left_pane": {
+      "no_content": "No left pane content for this page."
+    },
+    "status_bar": {
+      "default_message": ""
+    }
+  }
+}

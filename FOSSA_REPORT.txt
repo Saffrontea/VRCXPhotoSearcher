@@ -1,0 +1,2384 @@
+================================================================================
+================================================================================
+
+  Third-Party Software for https://github.com/Saffrontea/VRCXPhotoSearcher.git
+
+--------------------------------------------------------------------------------
+
+The following 3rd-party software packages may be used by or distributed with https://github.com/Saffrontea/VRCXPhotoSearcher.git. Any information relevant to third-party vendors listed below are collected using common, reasonable means.
+
+Date generated: 2024-12-29
+
+Revision ID: f26b6a44b2f1108ffc06656144ff4d2489e3a6eb
+
+================================================================================
+================================================================================
+
+
+
+
+================================================================================
+
+                              First Party Licenses
+
+================================================================================
+
+No licenses found
+
+
+
+
+
+================================================================================
+
+                                  Dependencies
+
+================================================================================
+
+
+
+--------------------------------------------------------------------------------
+Package Title: @ampproject/remapping (2.3.0)
+
+Package Locator: npm+@ampproject/remapping$2.3.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+package.json
+--------------------------------------------------------------------------------
+
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner tha...
+
+
+* Package Info *
+
+Authors: admin@ampproject.org, justin+npm@ridgewell.name
+
+Package Download URL: https://registry.npmjs.org/@ampproject/remapping/-/remapping-2.3.0.tgz
+
+--------------------------------------------------------------------------------
+Package Title: acorn (8.14.0)
+
+Package Locator: npm+acorn$8.14.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+package.json
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (C) 2012-2022 by various contributors (see AUTHORS)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following ...
+
+
+* Package Info *
+
+Authors: marijn@haverbeke.berlin, mail@adrianheine.de, me@rreverser.com
+
+Package Download URL: https://registry.npmjs.org/acorn/-/acorn-8.14.0.tgz
+
+--------------------------------------------------------------------------------
+Package Title: acorn-typescript (1.4.13)
+
+Package Locator: npm+acorn-typescript$1.4.13
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+package.json
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2022 Tyreal Hu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright ...
+
+
+* Package Info *
+
+Authors: 995927270@qq.com
+
+Package Download URL: https://registry.npmjs.org/acorn-typescript/-/acorn-typescript-1.4.13.tgz
+
+--------------------------------------------------------------------------------
+Package Title: adler2 (2.0.0)
+
+Package Locator: cargo+adler2$2.0.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0, 0BSD
+
+* MIT *
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     https://www.apache.org/licenses/LICENSE-2.0
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting th...
+
+* 0BSD *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-0BSD
+--------------------------------------------------------------------------------
+
+Copyright (C) Jonas Schievink <jonasschievink@gmail.com>
+
+Permission to use, copy, modify, and/or distribute this software for
+any purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE...
+
+
+--------------------------------------------------------------------------------
+Package Title: ahash (0.8.11)
+
+Package Locator: cargo+ahash$0.8.11
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Copyright (c) 2018 Tom Kaitchuck
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice an...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: aho-corasick (1.1.3)
+
+Package Locator: cargo+aho-corasick$1.1.3
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+Unlicense, MIT
+
+* Unlicense *
+--------------------------------------------------------------------------------
+File matches:
+UNLICENSE
+--------------------------------------------------------------------------------
+
+This is free and unencumbered software released into the public domain.
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public...
+
+* MIT *
+
+This project is dual-licensed under the Unlicense and MIT licenses.
+
+You may use this code under the terms of either license.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: aligned-vec (0.5.0)
+
+Package Locator: cargo+aligned-vec$0.5.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2022 sarah
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright noti...
+
+
+--------------------------------------------------------------------------------
+Package Title: alloc-no-stdlib (2.0.4)
+
+Package Locator: cargo+alloc-no-stdlib$2.0.4
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+BSD-3-Clause, Multi-license: BSD-2-Clause OR BSD-3-Clause
+
+* BSD-3-Clause *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE
+--------------------------------------------------------------------------------
+
+Copyright (c) 2016 Dropbox, Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other mater...
+
+* Multi-license: BSD-2-Clause OR BSD-3-Clause *
+
+Copyright (c) 2016 Dropbox, Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other mater...
+
+
+* Package Info *
+
+Authors: danielrh@dropbox.com
+
+--------------------------------------------------------------------------------
+Package Title: alloc-stdlib (0.2.2)
+
+Package Locator: cargo+alloc-stdlib$0.2.2
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+BSD-2-Clause
+
+
+Copyright (c) <year> <owner>
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice, this
+      list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+
+      and/or other mater...
+
+
+* Other Licenses *
+BSD-3-Clause
+
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+--------------------------------------------------------------------------------
+
+
+Copyright (c) <year> <owner> . All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+  ...
+
+
+* Package Info *
+
+Authors: danielrh@dropbox.com
+
+--------------------------------------------------------------------------------
+Package Title: android-tzdata (0.1.1)
+
+Package Locator: cargo+android-tzdata$0.1.1
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyrig...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1.  Definitions.
+
+    "License" shall mean the terms and conditions for use, reproduction,
+    and distribution as defined by Sections 1 through 9 of this document.
+
+    "Licensor" shall mean the copyright owner or entity authorized by
+    the copyright owner that is granting ...
+
+
+--------------------------------------------------------------------------------
+Package Title: android_system_properties (0.1.5)
+
+Package Locator: cargo+android_system_properties$0.1.5
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+src/lib.rs
+--------------------------------------------------------------------------------
+
+The MIT License (MIT)
+
+Copyright (c) 2013 Nicolas Silva
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The ab...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+src/lib.rs
+--------------------------------------------------------------------------------
+
+Copyright 2016 Nicolas Silva
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language ...
+
+
+--------------------------------------------------------------------------------
+Package Title: arg_enum_proc_macro (0.3.4)
+
+Package Locator: cargo+arg_enum_proc_macro$0.3.4
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2018 Luca Barbato
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyrig...
+
+
+* Package Info *
+
+Authors: lu_zero@gentoo.org
+
+--------------------------------------------------------------------------------
+Package Title: aria-query (5.3.2)
+
+Package Locator: npm+aria-query$5.3.2
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+Apache-2.0
+
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction,
+and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by
+the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all
+other entities that co...
+
+
+* Package Info *
+
+Authors: ljharb@gmail.com, jesse.r.beach@icloud.com, aliceboxhall@gmail.com
+
+Package Download URL: https://registry.npmjs.org/aria-query/-/aria-query-5.3.2.tgz
+
+--------------------------------------------------------------------------------
+Package Title: arrayvec (0.7.6)
+
+Package Locator: cargo+arrayvec$0.7.6
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+src/char.rs
+--------------------------------------------------------------------------------
+
+Copyright (c) Ulrik Sverdrup "bluss" 2015-2023
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyr...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+src/char.rs
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-channel (2.3.1)
+
+Package Locator: cargo+async-channel$2.3.1
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-executor (1.13.1)
+
+Package Locator: cargo+async-executor$1.13.1
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-fs (2.1.2)
+
+Package Locator: cargo+async-fs$2.1.2
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-lock (3.4.0)
+
+Package Locator: cargo+async-lock$3.4.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-process (2.3.0)
+
+Package Locator: cargo+async-process$2.3.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-recursion (1.1.1)
+
+Package Locator: cargo+async-recursion$1.1.1
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+src/lib.rs
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+src/lib.rs
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-signal (0.2.10)
+
+Package Locator: cargo+async-signal$0.2.10
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-task (4.7.1)
+
+Package Locator: cargo+async-task$4.7.1
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: async-trait (0.1.83)
+
+Package Locator: cargo+async-trait$0.1.83
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: atomic-waker (1.1.2)
+
+Package Locator: cargo+atomic-waker$1.1.2
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+LICENSE-THIRD-PARTY
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+LICENSE-THIRD-PARTY
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: av1-grain (0.2.3)
+
+Package Locator: cargo+av1-grain$0.2.3
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+BSD-2-Clause
+
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE
+--------------------------------------------------------------------------------
+
+BSD 2-Clause License
+
+Copyright (c) 2022-2022, the rav1e contributors
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+- Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+- Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer ...
+
+
+--------------------------------------------------------------------------------
+Package Title: axobject-query (4.1.0)
+
+Package Locator: npm+axobject-query$4.1.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+Apache-2.0
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+package.json
+--------------------------------------------------------------------------------
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction,
+and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by
+the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all
+other entities that co...
+
+
+* Package Info *
+
+Authors: ljharb@gmail.com, jesse.r.beach@icloud.com
+
+Package Download URL: https://registry.npmjs.org/axobject-query/-/axobject-query-4.1.0.tgz
+
+--------------------------------------------------------------------------------
+Package Title: backtrace (0.3.74)
+
+Package Locator: cargo+backtrace$0.3.74
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE-MIT
+--------------------------------------------------------------------------------
+
+Copyright (c) 2014 Alex Crichton
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice an...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: base64 (0.22.1)
+
+Package Locator: cargo+base64$0.22.1
+
+Package Depth: Direct
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+--------------------------------------------------------------------------------
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Alice Maz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE-APACHE
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: base64 (0.21.7)
+
+Package Locator: cargo+base64$0.21.7
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+--------------------------------------------------------------------------------
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Alice Maz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: bit_field (0.10.2)
+
+Package Locator: cargo+bit_field$0.10.2
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+--------------------------------------------------------------------------------
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Philipp Oppermann
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+Th...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+--------------------------------------------------------------------------------
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that...
+
+
+* Package Info *
+
+Authors: dev@phil-opp.com
+
+--------------------------------------------------------------------------------
+Package Title: bitflags (1.3.2)
+
+Package Locator: cargo+bitflags$1.3.2
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+Multi-license: Apache-2.0 OR MIT, Apache-2.0
+
+* Multi-license: Apache-2.0 OR MIT *
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+LICENSE-APACHE
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+* Package Info *
+
+Package Download URL: https://crates.io/api/v1/crates/bitflags/1.3.2/download
+
+--------------------------------------------------------------------------------
+Package Title: bitflags (2.6.0)
+
+Package Locator: cargo+bitflags$2.6.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+src/lib.rs
+--------------------------------------------------------------------------------
+
+Copyright (c) 2014 The Rust Project Developers
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyr...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+src/lib.rs
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: block (0.1.6)
+
+Package Locator: cargo+block$0.1.6
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+--------------------------------------------------------------------------------
+
+Copyright (c) <year> <copyright holders>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright no...
+
+
+* Package Info *
+
+Package Download URL: https://crates.io/api/v1/crates/block/0.1.6/download
+
+--------------------------------------------------------------------------------
+Package Title: block-buffer (0.10.4)
+
+Package Locator: cargo+block-buffer$0.10.4
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Copyright (c) 2018-2019 The RustCrypto Project Developers
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: block2 (0.5.1)
+
+Package Locator: cargo+block2$0.5.1
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+--------------------------------------------------------------------------------
+
+Copyright (c) <year> <copyright holders>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright no...
+
+
+--------------------------------------------------------------------------------
+Package Title: blocking (1.6.1)
+
+Package Locator: cargo+blocking$1.6.1
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Apache-2.0
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+README.md
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be ...
+
+* Apache-2.0 *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-APACHE
+README.md
+--------------------------------------------------------------------------------
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+
+--------------------------------------------------------------------------------
+Package Title: brotli (7.0.0)
+
+Package Locator: cargo+brotli$7.0.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+BSD-3-Clause, MIT
+
+* BSD-3-Clause *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE.BSD-3-Clause
+--------------------------------------------------------------------------------
+
+Copyright (c) 2016 Dropbox, Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other mater...
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE.MIT
+src/enc/entropy_encode.rs
+--------------------------------------------------------------------------------
+
+Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The...
+
+
+* Package Info *
+
+Authors: danielrh@dropbox.com
+
+--------------------------------------------------------------------------------
+Package Title: brotli-decompressor (4.0.1)
+
+Package Locator: cargo+brotli-decompressor$4.0.1
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, BSD-3-Clause
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+src/context.rs
+--------------------------------------------------------------------------------
+
+Copyright (c) 2013 Google Inc. All Rights Reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above c...
+
+* BSD-3-Clause *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE
+--------------------------------------------------------------------------------
+
+Copyright (c) 2016 Dropbox, Inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other mater...
+
+
+* Package Info *
+
+Authors: danielrh@dropbox.com
+
+--------------------------------------------------------------------------------
+Package Title: byteorder (1.5.0)
+
+Package Locator: cargo+byteorder$1.5.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+Unlicense, MIT
+
+* Unlicense *
+--------------------------------------------------------------------------------
+File matches:
+COPYING
+README.md
+UNLICENSE
+--------------------------------------------------------------------------------
+
+This is free and unencumbered software released into the public domain.
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public...
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+COPYING
+LICENSE-MIT
+--------------------------------------------------------------------------------
+
+This project is dual-licensed under the Unlicense and MIT licenses.
+
+You may use this code under the terms of either license.
+
+
+
+--------------------------------------------------------------------------------
+Package Title: byteorder-lite (0.1.0)
+
+Package Locator: cargo+byteorder-lite$0.1.0
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT, Unlicense
+
+* MIT *
+--------------------------------------------------------------------------------
+File matches:
+Cargo.toml
+LICENSE-MIT
+--------------------------------------------------------------------------------
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Andrew Gallant
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The a...
+
+* Unlicense *
+--------------------------------------------------------------------------------
+File matches:
+UNLICENSE
+--------------------------------------------------------------------------------
+
+This is free and unencumbered software released into the public domain.
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public...
+
+
+--------------------------------------------------------------------------------
+Package Title: cairo-rs (0.18.5)
+
+Package Locator: cargo+cairo-rs$0.18.5
+
+Package Depth: Transitive
+--------------------------------------------------------------------------------
+
+* Declared Licenses *
+MIT
+
+--------------------------------------------------------------------------------
+File matches:
+LICENSE
+--------------------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be ...
+
+
+
+================================================================================
+                                    Licenses
+
+================================================================================
+
+* Apache-2.0 *
+
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner tha...
+
+* Apache-2.0 *
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that...
+
+* Apache-2.0 *
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1.  Definitions.
+
+    "License" shall mean the terms and conditions for use, reproduction,
+    and distribution as defined by Sections 1 through 9 of this document.
+
+    "Licensor" shall mean the copyright owner or entity authorized by
+    the copyright owner that is granting ...
+
+* Apache-2.0 *
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+* Apache-2.0 *
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+* Apache-2.0 *
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+* Apache-2.0 *
+
+                              Apache License
+                        Version 2.0, January 2004
+                     http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting the License.
+
+...
+
+* Apache-2.0 *
+
+                              Apache License
+                        Version 2.0, January 2004
+                     https://www.apache.org/licenses/LICENSE-2.0
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+   "License" shall mean the terms and conditions for use, reproduction,
+   and distribution as defined by Sections 1 through 9 of this document.
+
+   "Licensor" shall mean the copyright owner or entity authorized by
+   the copyright owner that is granting th...
+
+* Apache-2.0 *
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction,
+and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by
+the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all
+other entities that co...
+
+* Apache-2.0 *
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   1. Definitions.
+      
+      "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+      
+      "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+      
+      "Legal Entity" shall mean the union of the acting ...
+
+* BSD-2-Clause *
+
+BSD 2-Clause License
+
+Copyright (c) 2022-2022, the rav1e contributors
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+- Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+- Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer ...
+
+* BSD-2-Clause *
+
+Copyright (c) <year> <owner>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice, this
+      list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+
+   ...
+
+* BSD-3-Clause *
+
+Copyright (c) <year> <owner>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+    ...
+
+* 0BSD *
+
+Copyright (C) Jonas Schievink <jonasschievink@gmail.com>
+
+Permission to use, copy, modify, and/or distribute this software for
+any purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE...
+
+* MIT *
+
+Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The...
+
+
+================================================================================
+
+                                   Copyrights
+
+================================================================================
+
+BSD Zero Clause License
+
+Copyright (c) Jonas Schievink <jonasschievink@gmail.com>
+
+Copyright (c)  Jonas Schievink <jonasschievink@gmail.com>
+Copyright (C) 2006 by Rob Landley <rob@landley.net>
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA ...
+
+--------------------------------------------------------------------------------
+Apache License 2.0
+
+Copyright (c) 2012-2016 The Rust Project Developers. See the COPYRIGHT
+
+Copyright (c) 2016 Alex Crichton
+
+Copyright (c) 2014 The Rust Project Developers. See the COPYRIGHT
+
+Copyright (c) The camino Contributors
+
+Copyright (c) yyyy] [name of copyright owner]
+
+Copyright (c) 2020 A11yance
+
+Copyright (c) 2012-2014 The Rust Project Developers and Eric Kidd
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   1. Definitions.
+      
+      "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+      
+      "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+      
+      "Legal Entity" shall mean the union of the acting ...
+
+--------------------------------------------------------------------------------
+BSD 2-Clause "Simplified" License
+
+Copyright (c) 2022-2022 the rav1e contributors
+Copyright (c) <year> <owner>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice, this
+      list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+
+   ...
+
+--------------------------------------------------------------------------------
+BSD 3-Clause "New" or "Revised" License
+
+Copyright (c) 2014, The Rust Project
+Copyright (c) <year> <owner>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+    ...
+
+--------------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+
+Copyright (c) 2010 Google Inc. All Rights Reserved.
+MIT License
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above...
+
+--------------------------------------------------------------------------------
+No Associated License
+
+Copyright (c) 2021 A11yance
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Report Generated by FOSSA on 2024-12-29

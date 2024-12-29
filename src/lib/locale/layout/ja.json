@@ -1,0 +1,15 @@
+{
+  "layout": {
+    "menu": {
+      "home": "ホーム",
+      "settings": "設定",
+      "about": "情報"
+    },
+    "left_pane": {
+      "no_content": "このページには左ペインがありません。"
+    },
+    "status_bar": {
+      "default_message": ""
+    }
+  }
+}

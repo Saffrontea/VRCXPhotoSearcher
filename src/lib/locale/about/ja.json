@@ -1,0 +1,16 @@
+{
+    "about": "VRCXPhotoSearcher",
+    "app_description": "VRCXPhotoSearcherは、VRChatスクリーンショットの整理や検索を支援するツールです",
+    "features": "機能",
+    "feature_metadata_analysis": "VRCXのメタデータ解析",
+    "feature_search": "豊富な検索機能",
+    "feature_ui": "直感的で使いやすいUI",
+    "feature_folder_analysis": "フォルダの効率的な解析",
+    "feature_fast_safe": "軽量で高速かつ安全",
+    "changelog": "変更履歴",
+    "changelog_placeholder": "変更履歴はまだありません。",
+    "app_info": "アプリ情報",
+    "version": "バージョン",
+    "author": "作者",
+    "contact": "連絡先"
+}

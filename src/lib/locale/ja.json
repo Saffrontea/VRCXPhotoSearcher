@@ -1,0 +1,59 @@
+{
+  "app": {
+    "thumbnail_list": "画像一覧",
+    "search_conditions": "検索条件",
+    "search_button": "検索",
+    "reload_button": "再読み込み",
+    "add_condition": "条件を追加",
+    "clear_condition": "クリア",
+    "remove_condition": "削除",
+    "close": "閉じる",
+    "fields": {
+      "world": "ワールド",
+      "player": "プレイヤー",
+      "created_at": "撮影日時"
+    },
+    "operators": {
+      "equal": "=",
+      "not_equal": "!=",
+      "contains": "含む",
+      "greater_than": "より大きい",
+      "greater_than_or_equal": "以上",
+      "less_than": "より小さい",
+      "less_than_or_equal": "以下"
+    },
+    "no_metadata": "メタデータを読み込めませんでした。\nこのファイルにメタデータがないか、データベースを更新することで修復できる場合があります。",
+    "loading_metadata": "メタデータを読み込んでいます...",
+    "file_name": "ファイル名",
+    "search_placeholder": "値を入力...",
+    "select_date": "日付を選択",
+    "player_list": "プレイヤー一覧",
+    "world_info": "ワールド情報",
+    "no_player_info": "プレイヤー情報がありません。",
+    "external_profile": "外部プロフィールを開く",
+    "use_in_search": "検索条件に使用",
+    "modal_title": {
+      "world": "ワールドオプション",
+      "player": "プレイヤーオプション"
+    },
+    "messages": {
+      "loading_thumbnails": "サムネイルをロードしています...",
+      "require_initial_setup": "初期設定が必要です。設定ページへ移動します...",
+      "thumbnail_load_error": "サムネイルのロードに失敗しました。",
+      "metadata_loading_error": "メタデータの取得に失敗しました。",
+      "all_thumbnails_loaded": "すべてのサムネイルがロードされました。 {0}件",
+      "thumbnails_displayed": "{0} 件のサムネイルを表示中...",
+      "missing_id_error": "{0}IDを取得できませんでした。",
+      "open_external_url_error": "外部URLを開けませんでした。",
+      "search_complete": "検索完了：{0}件",
+      "search_no_results": "該当する画像が見つかりませんでした。"
+    },
+    "titles": {
+      "load_thumbnails": "サムネイルをロード中..."
+    },
+    "types": {
+      "world": "ワールド",
+      "player": "プレイヤー"
+    }
+  }
+}

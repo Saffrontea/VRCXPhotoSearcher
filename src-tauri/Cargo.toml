@@ -1,8 +1,8 @@
 [package]
-name = "vrcxphotosearcher"
-version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+name = "VRCXPhotoSearcher"
+version = "1.0.0"
+description = "A Photo Management App with VRCX"
+authors = ["saffrontea"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -18,8 +18,19 @@ crate-type = ["staticlib", "cdylib", "rlib"]
 tauri-build = { version = "2", features = [] }
 
 [dependencies]
-tauri = { version = "2", features = [] }
+tauri = { version = "2", features = ["unstable"] }
 tauri-plugin-opener = "2"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
-
+rusqlite = { version = "0.32.1",features = ["bundled"] }
+image = "0.25.5"
+png = "0.17.16"
+lazy_static = "1.5.0"
+chrono = "0.4.39"
+tauri-plugin-dialog = "2"
+uuid = { version = "1.11.0", features = ["v4"] }
+base64 = "0.22.1"
+mime_guess = "2.0.5"
+tokio = "1.42.0"
+walkdir = "2.5.0"
+tauri-plugin-fs = "2.2.0"
