@@ -444,9 +444,11 @@
   }
 
   function handleReloadButton() {
-    allLoaded = false
-    offset = 0
-    loadAllThumbnails()
+    if (!isLoading){
+        allLoaded = false
+        offset = 0
+        loadAllThumbnails()
+      }
   }
 
   function handleFieldChange(index: number) {
